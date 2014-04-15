@@ -8,4 +8,4 @@ What to download
 ===
 If you are a **server owner** download ParadiseSurvivalGames.jar
 
-If you are a developer and want to use the API, download original-ParadiseSurvivalGames.jar
+If you are a **developer** and want to use the API, download original-ParadiseSurvivalGames.jar
