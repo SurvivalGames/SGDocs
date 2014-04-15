@@ -1,6 +1,6 @@
 Paradise Survival Games Builds and Docs
 ===============
-[The Wiki is fixed and working again!](https://github.com/ParadiseMC/ParadiseSGBuildsAndDocs/)
+[The Wiki is fixed and working again!](https://github.com/ParadiseMC/ParadiseSGBuildsAndDocs/wiki/)
 
 Development builds will be here soon!
 
